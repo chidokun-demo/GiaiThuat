@@ -17,7 +17,7 @@ public class LietKeTapConKPhanTu {
 		//khởi tạo tập cha
 		int[] tapCha = new int[n];
 		for(int i = 0; i < n;i++)
-			tapCha[i]=i+1;
+			tapCha[i]=i+1;//fdgfg
 		
 		int i;
 		do{
